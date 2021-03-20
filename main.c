@@ -3,6 +3,6 @@
 int main() {
 
 	print("Hello world!\r\n");
-	return 1;
+	return 0;
 
 }
